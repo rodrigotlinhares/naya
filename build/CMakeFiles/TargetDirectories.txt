@@ -1,0 +1,5 @@
+/home/rodrigolinhares/code/naya/build/CMakeFiles/libs.dir
+/home/rodrigolinhares/code/naya/build/CMakeFiles/naya_2dof.dir
+/home/rodrigolinhares/code/naya/build/CMakeFiles/naya_4dof.dir
+/home/rodrigolinhares/code/naya/build/CMakeFiles/naya_6dof.dir
+/home/rodrigolinhares/code/naya/build/CMakeFiles/naya_8dof.dir

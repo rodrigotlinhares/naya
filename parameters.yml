@@ -1,0 +1,25 @@
+%YAML:1.0
+#
+## Tracking stuff
+#
+size_template_x: 150
+size_template_y: 150
+size_bins: 1
+n_bins: 256
+percentage_active: 20
+n_max_iters: 20
+epsilon: 0.01
+interp: 1
+n_ctrl_pts_x: 2
+n_ctrl_pts_y: 2
+lambda_tps: 0
+#
+## I/O
+#
+filename: "/media/rodrigolinhares/hd2/videos/retina_scan/od1_cropped.avi"
+isgrayscale: 0
+#
+## Non-rigid Illum compensation
+#
+n_ctrl_pts_x_illum: 2
+n_ctrl_pts_y_illum: 2
